@@ -7,3 +7,12 @@ release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
+
+\.idea/
+\.mvn/
+
+DiceGameSpringBoot\.iml
+
+mvnw
+
+mvnw\.cmd
